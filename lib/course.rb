@@ -1,4 +1,4 @@
-class Scraper 
+class Course
 
 end 
 
